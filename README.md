@@ -1,6 +1,5 @@
 # Automated-Data-Recovery
 
-Your plan is well-structured! Here's a refined and detailed approach to accomplish the assignment using Google Colab, MongoDB Atlas, and Hugging Face Transformers:
 
 ### 1. Setting Up MongoDB Atlas
 
